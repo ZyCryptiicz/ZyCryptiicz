@@ -21,7 +21,7 @@
 
   ╔══════════════════════════════════════╗
   ║  Name    ─  ZyCryptiicz              ║
-  ║  Role    ─  Hacker / Modder / Coder  ║
+  ║  Role    ─  Modder / Coder           ║
   ║  OS      ─  BlackArch Linux          ║
   ║  Shell   ─  zsh + custom dotfiles    ║
   ║  Status  ─  Reverse engineering...   ║
