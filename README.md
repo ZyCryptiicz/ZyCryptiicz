@@ -1,36 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ZyCrypticz&fontSize=70&fontColor=BF5FFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Game%20Modding%20%7C%20Roblox%20Scripting&descSize=18&descAlignY=58&descColor=D4A8FF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ZyCryptiicz&fontSize=70&fontColor=BF5FFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Game%20Modding%20%7C%20Roblox%20Scripting&descSize=18&descAlignY=58&descColor=D4A8FF&animation=twinkling"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=BF5FFF&center=true&vCenter=true&width=700&lines=%F0%9F%8C%99+Breaking+games+so+others+don't+have+to.;%F0%9F%94%93+If+it+runs%2C+it+can+be+reversed.;%F0%9F%9A%80+Scripting+from+the+dark+side+of+the+moon.;%F0%9F%92%9C+Cybersecurity+%2F+Game+Modder+%2F+Lua+Wizard.)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ZyCrypticz?style=for-the-badge&logo=github&logoColor=white&color=7B2FBE&labelColor=1a0a2e)](https://github.com/ZyCrypticz)
-![Profile Views](https://komarev.com/ghpvc/?username=ZyCrypticz&style=for-the-badge&color=7B2FBE&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/ZyCryptiicz?style=for-the-badge&logo=github&logoColor=white&color=7B2FBE&labelColor=1a0a2e)](https://github.com/ZyCryptiicz)
+![Profile Views](https://komarev.com/ghpvc/?username=ZyCryptiicz&style=for-the-badge&color=7B2FBE&label=VISITORS)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 ## 🌙 `whoami`
 
 ```bash
-┌──[ZyCrypticz@dark-moon]─[~]
+┌──[ZyCryptiicz@dark-moon]─[~]
 └─$ cat about.txt
 
   ╔══════════════════════════════════════╗
-  ║  Name    ─  ZyCrypticz               ║
-  ║  Role    ─  Modder / Coder           ║
+  ║  Name    ─  ZyCryptiicz              ║
+  ║  Role    ─  Hacker / Modder / Coder  ║
   ║  OS      ─  BlackArch Linux          ║
   ║  Shell   ─  zsh + custom dotfiles    ║
   ║  Status  ─  Reverse engineering...   ║
   ╚══════════════════════════════════════╝
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -75,13 +71,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZyCrypticz&show_icons=true&hide_border=true&bg_color=0d0015&title_color=BF5FFF&icon_color=9933CC&text_color=D4A8FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZyCryptiicz&show_icons=true&hide_border=true&bg_color=0d0015&title_color=BF5FFF&icon_color=9933CC&text_color=D4A8FF" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyCrypticz&layout=compact&hide_border=true&bg_color=0d0015&title_color=BF5FFF&text_color=D4A8FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyCryptiicz&layout=compact&hide_border=true&bg_color=0d0015&title_color=BF5FFF&text_color=D4A8FF" height="170"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZyCrypticz&theme=midnight-purple&hide_border=true&background=0d0015&ring=BF5FFF&fire=9933CC&currStreakLabel=BF5FFF&sideLabels=D4A8FF&dates=8866AA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZyCryptiicz&theme=midnight-purple&hide_border=true&background=0d0015&ring=BF5FFF&fire=9933CC&currStreakLabel=BF5FFF&sideLabels=D4A8FF&dates=8866AA)](https://git.io/streak-stats)
 
 </div>
 
@@ -91,7 +87,7 @@
 
 <div align="center">
 
-[![ZyCrypticz Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZyCrypticz&bg_color=0d0015&color=BF5FFF&line=9933CC&point=ffffff&area=true&area_color=4B0082&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ZyCryptiicz Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZyCryptiicz&bg_color=0d0015&color=BF5FFF&line=9933CC&point=ffffff&area=true&area_color=4B0082&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -101,7 +97,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZyCrypticz&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZyCryptiicz&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
